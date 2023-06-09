@@ -32,11 +32,13 @@ nav ul {
     display: flex;
     flex-direction: row;
     justify-content: center;
+    flex-wrap: wrap;
 }
  
 img {
     width: 350px;
     display: flex;
+    margin: auto
 }
 
 article, 
@@ -44,6 +46,16 @@ p,
 li {
    text-align: center;
    margin: 20px;
-   padding: 10px 10px 10px 20px;
+   padding: 10px 10px 10px 10px;
    justify-content: ;
+}
+
+@media screen and (max-width: 650px) {
+    header {
+        min-width: 100vw;
+    }
+    article {
+        margin: 0px;
+        padding: 0px;
+    }
 }
