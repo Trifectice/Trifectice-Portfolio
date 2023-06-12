@@ -9,6 +9,8 @@ This is a brief portolio of my experience with coding. I made this to be ble to 
 
 With in the webpage there are links set to show some prior works I've done for the classes I am in and links to my GitHub. Bellow is a screenchot of the aforementioned project.
     ![Image of my first project](/assets/images/Image%206-8-23%20at%209.30%20AM.jpg)
+
+Click [here](https://trifectice.github.io/Trifectice-Portfolio/) to see my deployed web page!
     
 
 ## Credits
